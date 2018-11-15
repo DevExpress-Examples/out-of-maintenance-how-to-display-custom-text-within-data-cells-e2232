@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXPivotGrid_FormattingViaEvents/MainWindow.xaml)
+* [MainWindow.xaml.cs](./CS/DXPivotGrid_FormattingViaEvents/MainWindow.xaml.cs)
+<!-- default file list end -->
 # How to Display Custom Text within Data Cells
 
 
