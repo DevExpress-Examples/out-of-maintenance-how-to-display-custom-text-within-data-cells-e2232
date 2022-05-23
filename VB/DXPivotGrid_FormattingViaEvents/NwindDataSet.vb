@@ -1,0 +1,2 @@
+Namespace FormattingViaEvents
+End Namespace
